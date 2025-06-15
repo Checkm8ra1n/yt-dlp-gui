@@ -1,0 +1,43 @@
+/* Main title */
+"app_title" = "GUI for yt-dlp";
+
+/* URL placeholder */
+"url_placeholder" = "Enter URL";
+
+/* Path placeholder */
+"path_placeholder" = "Select destination folder";
+
+/* Browse button */
+"browse" = "Browse";
+
+/* yt-dlp path label */
+"yt_dlp_path" = "yt-dlp Path";
+
+/* Default path label */
+"default_path_label" = "Select a default path";
+
+/* Predefined path labels */
+"homebrew_path" = "Homebrew (/usr/local/bin/yt-dlp)";
+"macports_path" = "MacPorts (/opt/local/bin/yt-dlp)";
+"manual" = "Custom";
+
+/* Download button */
+"download_button" = "Download";
+
+/* Downloading button */
+"downloading_button" = "Downloading...";
+
+/* Cancel button */
+"cancel_button" = "Cancel";
+
+/* Audio-only label */
+"audio_only" = "Audio only";
+
+/* Quality label */
+"quality_label" = "Quality";
+
+/* Completion message */
+"download_complete" = "Download completed!";
+
+/* Log: download canceled */
+"download_canceled" = "Download canceled.";
